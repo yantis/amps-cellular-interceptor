@@ -1,0 +1,10 @@
+{BEGDATA}
+AREA.DTA
+char Anumber[14];
+char Aarea[29];
+{ENDDATA}
+{BEGIDX}
+AREA.DTX
+Number: Anumber;
+{ENDIDX}
+
